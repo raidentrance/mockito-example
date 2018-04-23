@@ -13,16 +13,16 @@ import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
 
 import com.raidentrance.services.DataService;
-import com.raidentrance.services.impl.AreaCalculatorServiceImpl;
+import com.raidentrance.services.impl.CalculatorServiceImpl;
 
 /**
  * @author maagapi
  *
  */
 @RunWith(MockitoJUnitRunner.class)
-public class AreaCalculatorServiceTest {
+public class CalculatorServiceTest {
 	@InjectMocks
-	private AreaCalculatorServiceImpl calculatorService;
+	private CalculatorServiceImpl calculatorService;
 
 	@Mock
 	private DataService dataService;

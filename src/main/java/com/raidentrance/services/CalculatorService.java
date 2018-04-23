@@ -7,6 +7,6 @@ package com.raidentrance.services;
  * @author maagapi
  *
  */
-public interface AreaCalculatorService {
+public interface CalculatorService {
 	double calculateAverage();
 }

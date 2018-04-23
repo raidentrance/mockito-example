@@ -3,14 +3,14 @@
  */
 package com.raidentrance.services.impl;
 
-import com.raidentrance.services.AreaCalculatorService;
+import com.raidentrance.services.CalculatorService;
 import com.raidentrance.services.DataService;
 
 /**
  * @author maagapi
  *
  */
-public class AreaCalculatorServiceImpl implements AreaCalculatorService {
+public class CalculatorServiceImpl implements CalculatorService {
 	private DataService dataService;
 
 	@Override
