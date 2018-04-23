@@ -1,0 +1,17 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+pom.xml.versionsBackup
+/mydb
+/target
+/.settings
+*.classpath
+.project
+/target/
+/target/
+/bin/
+.idea/
+*.iml
