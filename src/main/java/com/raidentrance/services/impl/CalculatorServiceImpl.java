@@ -7,7 +7,7 @@ import com.raidentrance.services.CalculatorService;
 import com.raidentrance.services.DataService;
 
 /**
- * @author maagapi
+ * @author raidentrance
  *
  */
 public class CalculatorServiceImpl implements CalculatorService {

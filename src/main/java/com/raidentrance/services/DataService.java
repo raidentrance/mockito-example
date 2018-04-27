@@ -4,7 +4,7 @@
 package com.raidentrance.services;
 
 /**
- * @author maagapi
+ * @author raidentrance
  *
  */
 public interface DataService {

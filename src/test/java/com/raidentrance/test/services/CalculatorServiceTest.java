@@ -16,7 +16,7 @@ import com.raidentrance.services.DataService;
 import com.raidentrance.services.impl.CalculatorServiceImpl;
 
 /**
- * @author maagapi
+ * @author raidentrance
  *
  */
 @RunWith(MockitoJUnitRunner.class)
